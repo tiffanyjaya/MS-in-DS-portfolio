@@ -13,3 +13,6 @@
 [submodule "w271-lab4"]
 	path = w271-lab4
 	url = https://github.com/tiffapedia/w271-lab4.git
+[submodule "w207-final"]
+	path = w207-final
+	url = https://github.com/tiffapedia/w207-final
