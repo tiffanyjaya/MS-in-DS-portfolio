@@ -2,14 +2,16 @@
 
 Here is a list of relevant coursework I have taken while pursuing my Masters in Data Science at UC Berkeley:
 
-* [Data Visualization](https://www.ischool.berkeley.edu/courses/datasci/209)
-* [Natural Language Processing](https://www.ischool.berkeley.edu/courses/datasci/266)
-* [Time Series](https://www.ischool.berkeley.edu/courses/datasci/271)
-* [Machine Learning](https://www.ischool.berkeley.edu/courses/datasci/207)
-* [Field Experiments](https://www.ischool.berkeley.edu/courses/datasci/241)
+* [Data Visualization](https://www.ischool.berkeley.edu/courses/datasci/209) (W209)
+* [Natural Language Processing](https://www.ischool.berkeley.edu/courses/datasci/266) (W266)
+* [Time Series](https://www.ischool.berkeley.edu/courses/datasci/271) (W271)
+* [Machine Learning](https://www.ischool.berkeley.edu/courses/datasci/207) (W207)
+* [Field Experiments](https://www.ischool.berkeley.edu/courses/datasci/241) (W241)
 * [Startup](https://ieor.berkeley.edu/node/896)
 
 # Class Projects
+
+
 
 1. 
 2. 

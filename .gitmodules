@@ -1,3 +1,15 @@
 [submodule "w241-final"]
 	path = w241-final
 	url = https://github.com/tiffapedia/w241-final.git
+[submodule "w271-lab1"]
+	path = w271-lab1
+	url = https://github.com/tiffapedia/w271-lab1.git
+[submodule "w271-lab2"]
+	path = w271-lab2
+	url = https://github.com/tiffapedia/w271-lab2.git
+[submodule "w271-lab3"]
+	path = w271-lab3
+	url = https://github.com/tiffapedia/w271-lab3.git
+[submodule "w271-lab4"]
+	path = w271-lab4
+	url = https://github.com/tiffapedia/w271-lab4.git
