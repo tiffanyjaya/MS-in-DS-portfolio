@@ -22,6 +22,7 @@ Here is a list of relevant coursework I have taken while pursuing my Masters in 
 7. **[Do changes in traffic laws affect traffic fatalities?](https://github.com/tiffapedia/w271-lab4/blob/master/RobertDeng_ShanHe_JoannaHuang_TiffanyJaya_Lab4.pdf) (w271-lab4)**:
 8. **[Do Trump Reminders Cause Cognitive Disonance?](https://github.com/tiffapedia/w241-final/blob/master/Section3_Final_ColbyCarter_TiffanyJaya_AbhishekAgarwal.pdf) (w241-final)**: 
 Conducted an experiment to answer the research question whether the subtle reminder of our president's name, Donald Trump, cause an immediate change in the level of optimism towards key aspects of life, such as employment outlook and retirement prospect. 
+9. **[How to increase ridership in Ford GoBike](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/sql-analysis/ford-go-bike.ipynb) (sql-analysis/ford-go-bike.ipynb)**: Analyzed publicly available dataset to recommend ways on how Ford GoBike, a bike sharing company in San Francisco, can increase its ridership. 
 
 # Startup 
 
