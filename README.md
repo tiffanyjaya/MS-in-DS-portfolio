@@ -13,8 +13,8 @@ Here is a list of relevant coursework I have taken while pursuing my Masters in 
 
 
 
-1. **[Visualizing Twitter Sentiment in Real Time on a Given Topic](https://www.tiffapedia.com/projects/w209-final) (w209-final)**: __Work in Progress__ Explore the most optimal way of conveying Twitter users' sentiment on a given topic
-2. **[Determining the Regional and Cultural Dialects in a Particular Zip Code]() (w266-final)**: __Work in Progress__ Employ data from social media outlets to determine the regional and cultural dialects of a particular zip code.
+1. **[Visualizing Twitter Sentiment in Real Time on a Given Topic](https://www.tiffapedia.com/projects/w209-final) (w209-final)**: *Work in Progress* Explore the most optimal way of conveying Twitter users' sentiment on a given topic
+2. **[Determining the Regional and Cultural Dialects in a Particular Zip Code]() (w266-final)**: *Work in Progress* Employ data from social media outlets to determine the regional and cultural dialects of a particular zip code.
 3. 
 4. 
 5.
