@@ -25,13 +25,11 @@ Here is a list of relevant coursework I have taken while pursuing my Masters in 
 8. **[Do Trump Reminders Cause Cognitive Disonance?](https://github.com/tiffapedia/w241-final/blob/master/Section3_Final_ColbyCarter_TiffanyJaya_AbhishekAgarwal.pdf) (w241-final)**: 
 Conducted an experiment to answer the research question whether the subtle reminder of our president's name, Donald Trump, cause an immediate change in the level of optimism towards key aspects of life, such as employment outlook and retirement prospect. 
 9. **[How to increase ridership in Ford GoBike](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/sql-analysis/ford-go-bike.ipynb) (sql-analysis/ford-go-bike.ipynb)**: Analyzed publicly available dataset to recommend ways on how Ford GoBike, a bike sharing company in San Francisco, can increase its ridership. 
-
-# Tableau
-
-1. **[EDA on 2000 Presidential Election in FL](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/tableau/EDA_2000_presidential_election_in_fl.pdf)**: Using Tableau, explore the following three hypothesis about the 2000 presidential election in Florida:
+10. **[EDA on 2000 Presidential Election in FL](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/tableau/EDA_2000_presidential_election_in_fl.pdf)**: Using Tableau, explore the following three hypothesis about the 2000 presidential election in Florida:
     1. Hypothesis 1: The "butterfly ballot" used in Palm Beach County has misled many voters into voting for Buchanan when they in fact intended to vote for Al Gore.
     2. Hypothesis 2: As a result of the "butterfly ballot" used in Palm Beach County, people tend to overvote than undervote during the election.
     3. Hypothesis 3: For the 2000 Presidential Election, Al Gore is more popular in southern Florida with its more liberal constituents while George Bush is more popular in northern Florida with its more conservative constituents.
+11. **[Visualized trends in overweight children from 1972-2016](http://people.ischool.berkeley.edu/~tiffanyjaya/)[[*Work in Progress for the interactive visualization*]]
 
 # Startup 
 
