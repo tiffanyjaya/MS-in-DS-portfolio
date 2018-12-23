@@ -16,3 +16,6 @@
 [submodule "w207-final"]
 	path = w207-final
 	url = https://github.com/tiffapedia/w207-final
+[submodule "w266-final"]
+	path = w266-final
+	url = https://github.com/tiffapedia/w266-final.git
