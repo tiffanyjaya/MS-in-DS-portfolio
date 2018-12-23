@@ -12,9 +12,9 @@ Here is a list of relevant coursework I have taken while pursuing my Masters in 
 # Class Projects
 
 1. **[Designed a marketing platform that provides real-time analysis of metrics in the Twitter domain](https://tiffapedia-twitterrain.herokuapp.com/tasks/sov) (Twitterrain, w209-final)**: [[*Work in Progress: still need to implement session or login*]] Developed visualizations based on metrics defined by seasoned marketers: Share of Voice, Potential Reach, Sentiment Analysis
-  1. [First iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/w209-final/Mid-term_Presentation.pdf)
-  2. [Second iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/w209-final/Final_Presentation.pdf)
-  3. [Usability testing for Share of Voice](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/w209-final/Usability_Testing_For_SOV.pdf)
+  - [First iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/w209-final/Mid-term_Presentation.pdf)
+  - [Second iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/w209-final/Final_Presentation.pdf)
+  - [Usability testing for Share of Voice](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/w209-final/Usability_Testing_For_SOV.pdf)
   
 2. **[Developed three unsupervised regional dialect translators](https://github.com/tiffapedia/w266-final/blob/master/final/Final%20Paper.pdf) (w266-final)**: Generate a translator model by enhancing a particular regional pattern in a LSTM and CNN encoder-decoder models and training a LSTM encoder-decoder model adversarially.
 3. **[Classified cartographic features into one of seven forest cover types found in Roosevelt National Forest](https://github.com/tiffapedia/w207-final/blob/master/DivyaGorantla_RamIyer_TiffanyJaya_SteveSanders.ipynb) (w207-final)**: Performed a thorough data analysis and assembled an ensemble model to increase classification accuracy; top 12% in Kaggle leaderboard
@@ -29,9 +29,9 @@ Conducted an experiment to answer the research question whether the subtle remin
 # Tableau
 
 1. **[EDA on 2000 Presidential Election in FL](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/tableau/EDA_2000_presidential_election_in_fl.pdf)**: Using Tableau, explore the following three hypothesis about the 2000 presidential election in Florida:
-  1. Hypothesis 1: The "butterfly ballot" used in Palm Beach County has misled many voters into voting for Buchanan when they in fact intended to vote for Al Gore.
-  2. Hypothesis 2: As a result of the "butterfly ballot" used in Palm Beach County, people tend to overvote than undervote during the election.
-  3. Hypothesis 3: For the 2000 Presidential Election, Al Gore is more popular in southern Florida with its more liberal constituents while George Bush is more popular in northern Florida with its more conservative constituents.
+  - Hypothesis 1: The "butterfly ballot" used in Palm Beach County has misled many voters into voting for Buchanan when they in fact intended to vote for Al Gore.
+  - Hypothesis 2: As a result of the "butterfly ballot" used in Palm Beach County, people tend to overvote than undervote during the election.
+  - Hypothesis 3: For the 2000 Presidential Election, Al Gore is more popular in southern Florida with its more liberal constituents while George Bush is more popular in northern Florida with its more conservative constituents.
 
 # Startup 
 
