@@ -29,7 +29,7 @@ Conducted an experiment to answer the research question whether the subtle remin
     1. Hypothesis 1: The "butterfly ballot" used in Palm Beach County has misled many voters into voting for Buchanan when they in fact intended to vote for Al Gore.
     2. Hypothesis 2: As a result of the "butterfly ballot" used in Palm Beach County, people tend to overvote than undervote during the election.
     3. Hypothesis 3: For the 2000 Presidential Election, Al Gore is more popular in southern Florida with its more liberal constituents while George Bush is more popular in northern Florida with its more conservative constituents.
-11. **[Visualized trends in overweight children from 1972-2016](http://people.ischool.berkeley.edu/~tiffanyjaya/)[[*Work in Progress for the interactive visualization*]]
+11. **[Visualized trends in overweight children from 1972-2016](http://people.ischool.berkeley.edu/~tiffanyjaya/)**: [[*Work in Progress for the interactive visualization*]]
 
 # Startup 
 
