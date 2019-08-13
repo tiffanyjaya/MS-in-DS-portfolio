@@ -11,7 +11,7 @@ Here is a list of relevant coursework I have taken while pursuing my Masters in 
 
 # Class Projects
 
-1. **[Designed a data visualization platform for equity portfolio managers to find investment opportunities](http://tiffapedia-pyxis.herokuapp.com/) (Pyxis, My Capstone Project)**: Clustered companies based on financial similarity and predicted the company's one year forward return so that equity portfolio managers have insight as to what to invest next.
+1. **[Designed a data visualization platform that finds investment opportunities for equity portfolio managers](http://tiffapedia-pyxis.herokuapp.com/) (Pyxis, My Capstone Project)**: Clustered companies based on financial similarity and predicted the company's one year forward return so that equity portfolio managers have insight as to what to invest next.
     1. [First iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/capstone/First_Iteration_Presentation.pdf)
     2. [Second iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/capstone/Second_Iteration_Presentation.pdf)
     3. [Final iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/capstone/Final_Iteration_Presentation.pdf)
