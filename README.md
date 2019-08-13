@@ -11,10 +11,10 @@ Here is a list of relevant coursework I have taken while pursuing my Masters in 
 
 # Class Projects
 
-1. **[Designed a data visualization platform for equity portfolio managers](http://tiffapedia-pyxis.herokuapp.com/) (Pyxis, w210-final)**: Clustered companies based on financial similarity and predicted the company's one year forward return so that equity portfolio managers have opportunity insight as to what to invest next.
-    1. [First iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/w210-final/First_Iteration_Presentation.pdf)
-    2. [Second iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/w210-final/Second_Iteration_Presentation.pdf)
-    3. [Final iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/w210-final/Final_Iteration_Presentation.pdf)
+1. **[Designed a data visualization platform for equity portfolio managers to find investment opportunities](http://tiffapedia-pyxis.herokuapp.com/) (Pyxis, My Capstone Project)**: Clustered companies based on financial similarity and predicted the company's one year forward return so that equity portfolio managers have insight as to what to invest next.
+    1. [First iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/capstone/First_Iteration_Presentation.pdf)
+    2. [Second iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/capstone/Second_Iteration_Presentation.pdf)
+    3. [Final iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/capstone/Final_Iteration_Presentation.pdf)
 2. **[Designed a marketing platform that provides real-time analysis of metrics in the Twitter domain](https://tiffapedia-twitterrain.herokuapp.com/tasks/sov) (Twitterrain, w209-final)**: [[*Work in Progress: still need to implement session or login*]] Developed visualizations based on metrics defined by seasoned marketers: Share of Voice, Potential Reach, Sentiment Analysis
     1. [First iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/w209-final/Mid-term_Presentation.pdf)
     2. [Second iteration](https://github.com/tiffanyjaya/MS-in-DS-portfolio/blob/master/w209-final/Final_Presentation.pdf)
